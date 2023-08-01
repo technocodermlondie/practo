@@ -1,2 +1,2 @@
 # practo
-For students to practice the Git workflow
+To educate the needy people of Africa🌍.
